@@ -8,4 +8,4 @@ description: Short summary
 ## Well, well
 Time before light
 
-{% include embed/{youtube}.html id='{dQw4w9WgXcQ}' %}
+{% include embed/youtube.html id='dQw4w9WgXcQ' %}
